@@ -132,7 +132,7 @@
     "example": "彼はチームのナンバー1だ。",
     "id": 15,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ハイテンション (haitenshon)",
@@ -140,7 +140,7 @@
     "explanation": "Means very energetic mood. (Set 1)",
     "example": "試合前はみんなハイテンションだった。",
     "id": 16,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
